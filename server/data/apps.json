@@ -4564,6 +4564,22 @@
         "elementName": "Search"
       }
     ]
+  },
+  {
+    "appName": "LittleCast",
+    "appType": ["podcast player", "app"],
+    "tagLine": "Podcasts for Toniebox and Yoto",
+    "appUrl": "https://littlecast.app",
+    "appIconUrl": "littlecast.jpg",
+    "platforms": ["iOS", "iPad OS", "Mobile"],
+    "platformLinks": {
+      "iOS": "https://apps.apple.com/app/apple-store/id6760935326"
+    },
+    "supportedElements": [
+      {
+        "elementName": "Search"
+      }
+    ]
   }
 
 ]
